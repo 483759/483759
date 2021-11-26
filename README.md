@@ -3,7 +3,7 @@
 - ⬜⬜대학교 소프트웨어학과 졸업 (2016.03 ~ 2021.02)
 - ETRI(한국전자통신연구원) 뇌휴먼인터페이스연구실 동계 인턴 펌웨어 개발 직무 (2020.01 ~ 2020.02)
 - ⬜⬜대학교 소프트웨어학과 자료구조 · 알고리즘 교과목 학부생 TA (2020.03 ~ 2020.12)
-- Samsung Software Academy For Youth 5기 이수 中 (2021.01 ~ )
+- Samsung Software Academy For Youth 5기 이수 (2021.01 ~ 2021.11)
 - [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=483759)](https://solved.ac/483759) 
 
 <br>
