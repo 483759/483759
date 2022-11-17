@@ -9,6 +9,7 @@
 - Spring
 - DDD
 - OOP
+- Yeopgi tteokbokki
 
 <br>
 
